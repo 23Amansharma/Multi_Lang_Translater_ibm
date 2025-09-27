@@ -23,8 +23,4 @@ This repository contains the source notebook for a simple text translation UI.�
 ☁️ Google Colab
 🔌 Transformers, torch
 
-**▶️ Quick Start (Google Colab)**
 
-📂 Open the notebook (translator.ipynb) in Google Colab.
-▶️ Run all cells step by step.
-✅ Last cell launches Gradio. Use iface.launch(share=True) for a temporary public link.
