@@ -1,71 +1,31 @@
-# Multi_Lang_Translater_ibm
-🌍 Multi Language Translator with Hinglish Support, History & TTS
-
-A powerful and user-friendly language translator built using Transformers, Gradio, gTTS, and Indic Transliteration.
-This app can auto-detect languages, supports Hinglish to Hindi transliteration, generates confidence scores, maintains translation history, and provides text-to-speech pronunciation for translated text.
-
-<!-- You can replace this with an actual screenshot -->
-
-🚀 Features
-
-✅ Translate between 12+ languages
-✅ Auto language detection
-✅ Hinglish to Devanagari transliteration
-✅ Text-to-speech (TTS) pronunciation using gTTS
-✅ Translation history tracking
-✅ Confidence score indicator
-✅ Language swap functionality
-✅ Clean, modern Gradio UI with custom CSS
-
-🌐 Supported Languages
-Language	Code
-English	en
-Hindi	hi
-Marathi	mr
-Gujarati	gu
-Tamil	ta
-Malayalam	ml
-French	fr
-German	de
-Spanish	es
-Chinese	zh
-Japanese	ja
-Korean	ko
-🛠️ Installation
-git clone https://github.com/yourusername/multilang-translator.git
-cd multilang-translator
-pip install -r requirements.txt
-
-Or install manually:
-pip install transformers sentencepiece gradio langdetect indic-transliteration gtts
-
-▶️ Run the App
-python app.py
+**Translator **
+<p align="center">
+  <a href=" https://0d8bd4dbd19f2fb21d.gradio.live" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Demo-Click%20Here-brightgreen" alt="Open Live Demo" />
+  </a>
+</p>
 
 
-Or from a notebook:
+Project Overview
+A lightweight Translator web application built with Gradio and executed on Google Colab. This repository contains the source notebook for a simple text translation UI. A live shared demo is available at: https://0d8bd4dbd19f2fb21d.gradio.live
+This README explains how to run the app on Google Colab, how to add a clickable Live Demo button to the repository homepage, and how to make the demo persistent.
 
-!python app.py
+Features
 
+Text input → translated text output
+Simple and responsive Gradio UI
+Example language options and sample texts
+Runs smoothly on Google Colab without local setup
 
-After launch, Gradio will give you a link like:
-http://127.0.0.1:7860 or a shareable public link.
+Tech Stack
 
-📁 Project Structure
-multilang-translator/
-├── app.py                # Main application file
-├── README.md             # This file
-├── requirements.txt      # Dependencies
-└── assets/               # Screenshots, logos (optional)
+Python 3.8+
+Gradio
+Google Colab
+Transformers, torch.
 
-✨ UI Highlights
+Quick Start (Google Colab)
 
-🔄 Real-time translation (optional toggle)
-
-🗣️ Hinglish Transliteration — Convert "kya haal hai" → "क्या हाल है"
-
-🎧 Pronunciation — Hear the translated text via Google TTS
-
-📜 Recent Translation History — Tracks your last 10 translations
-
-🔁 Language Swap — Quickly switch between source and target
+Open the notebook (translator(1).ipynb) directly in Google Colab.
+Run all the cells in order.
+The final cell will launch the Gradio interface. Use iface.launch(share=True) to generate a temporary shareable demo link.
