@@ -4,7 +4,7 @@
 
 A lightweight Translator Web Application built with Gradio and executed on Google Colab.
 This repository contains the source notebook for a simple text translation UI.🔗 Live Demo: <p align="center">
-  <a href="https://0d8bd4dbd19f2fb21d.gradio.live" target="_blank">
+  <a href="https://huggingface.co/spaces/Amansharma23/Multi_Lang_Translater_ibm" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live Demo-Click%20Here-blue?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
