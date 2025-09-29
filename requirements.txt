@@ -1,0 +1,6 @@
+transformers
+sentencepiece
+gradio
+langdetect
+indic-transliteration
+torch
