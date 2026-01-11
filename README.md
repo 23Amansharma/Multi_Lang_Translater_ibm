@@ -30,8 +30,7 @@ Click the button below to try the translator live:
 ## 📺 Interface Preview
 
 <p align="center">
-  <img src="<img width="1366" height="625" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/bf3aa0e9-ae4b-427f-a3fb-c89753dfdf5a" />
-" alt="Translator App Interface" width="800" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+  <img width="1366" height="625" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/90a70786-5bee-450d-8d66-55cea81c0131" />
 </p>
 
 ---
