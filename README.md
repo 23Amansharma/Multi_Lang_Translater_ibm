@@ -1,26 +1,51 @@
-**Translator **
+# 🌐 Multi-Language AI Translator
 
-**✨ Project Overview**
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Gradio](https://img.shields.io/badge/Built%20With-Gradio-orange?style=for-the-badge&logo=gradio)](https://gradio.app/)
+[![HuggingFace](https://img.shields.io/badge/Deployed%20on-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-A lightweight Translator Web Application built with Gradio and executed on Google Colab.
-This repository contains the source notebook for a simple text translation UI.🔗 Live Demo: <p align="center">
-  <a href="https://huggingface.co/spaces/Amansharma23/Multi_Lang_Translater_ibm" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Live Demo-Click%20Here-blue?style=for-the-badge" alt="Live Demo" />
-  </a>
+> A lightweight **Translator Web Application** built with Gradio and powered by Transformers. This tool allows for seamless text translation directly in your browser.
+
+---
+
+## 🚀 Live Demo
+
+Click the button below to try the translator live:
+
+<a href="https://huggingface.co/spaces/Amansharma23/Multi_Lang_Translater_ibm" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_View_Live_Demo-Click_Here-2ea44f?style=for-the-badge" alt="Live Demo" height="40" />
+</a>
+
+---
+
+## ✨ Features
+
+* 📝 **Instant Translation:** Simple text input → accurate translated output.
+* 🎨 **Interactive UI:** A clean and responsive interface built with **Gradio**.
+* 🌍 **Language Options:** Supports multiple languages with sample text for quick testing.
+* ☁️ **Cloud Ready:** Optimized to run on **Google Colab** and **Hugging Face Spaces**.
+
+---
+
+## 📺 Interface Preview
+
+<p align="center">
+  <img src="./path-to-your-screenshot.png" alt="Translator App Interface" width="800" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
 </p>
-.
-**🚀 Features**
 
-📝 Text input → translated text output
-🎨 Clean and responsive Gradio UI
-🌍 Example language options and sample texts
-☁️ Runs easily on Google Colab without extra setup
+---
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
-🐍 Python 3.8+
-⚡ Gradio
-☁️ Google Colab
-🔌 Transformers, torch
+| Component | Technology |
+| :--- | :--- |
+| **Language** | 🐍 Python 3.8+ |
+| **Frontend** | ⚡ Gradio |
+| **ML Models** | 🔌 Transformers, Torch |
+| **Platform** | ☁️ Google Colab / Hugging Face |
 
+---
 
+<p align="left">
+  Made with ❤️ by <b>Aman Sharma</b>
+</p>
