@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-Click the button below to try the translator live if not show then click create search space button then show interface:
+Click the button below to try the translator live if not show then click Restart the Search Space button then show interface:
 
 <a href="https://huggingface.co/spaces/Amansharma23/Multi_Lang_Translater_ibm" target="_blank">
   <img src="https://img.shields.io/badge/🚀_View_Live_Demo-Click_Here-2ea44f?style=for-the-badge" alt="Live Demo" height="40" />
